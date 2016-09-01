@@ -1,5 +1,6 @@
 # Organize the README file
 import re
+from datetime import datetime
 from string import Template
 
 print '# Hack Reactor Student Blogs'
@@ -30,7 +31,7 @@ cohort_template = Template('\n### $cohort\n')
 blog_template = Template('- [$name]($url)')
 for year in blogs:
     print year_template.substitute(year=year)
-    for cohort in blogs[year]:
+    for cohort in reversed(sorted(blogs[year], key=lambda month: datetime.strptime(month, '%B'))):
         print cohort_template.substitute(cohort=cohort)
         for blog in sorted(blogs[year][cohort], key=lambda blog: blog['name']):
             print blog_template.substitute(name=blog['name'], url=blog['url'])

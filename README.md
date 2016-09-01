@@ -2,7 +2,23 @@
 
 Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
+## 2016
+
+### September
+
+- [Cash Weaver](https://www.cashweaver.com/)
+
 ## 2013
+
+### June
+
+- [Andrew](http://andrewspade.net/)
+- [Greg](blog.ideahaven.co)
+- [Guy](http://guymorita.tumblr.com/)
+- [Jake](http://eastbayjake.wordpress.com)
+- [Miike](http://miike.posthaven.com)
+- [Phillip](http://phillipalexander.io)
+- [Shao](http://getshao.com)
 
 ### April
 
@@ -20,15 +36,13 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Jake Seip](http://seip.io/)
 - [Patrick Stapleton](http://blog.gdi2290.com)
 
-### June
+### March
 
-- [Andrew](http://andrewspade.net/)
-- [Greg](blog.ideahaven.co)
-- [Guy](http://guymorita.tumblr.com/)
-- [Jake](http://eastbayjake.wordpress.com)
-- [Miike](http://miike.posthaven.com)
-- [Phillip](http://phillipalexander.io)
-- [Shao](http://getshao.com)
+- [Andrew Magliozzi](http://pleasestealthisidea.com/)
+- [Blake Embrey](http://blakeembrey.com/)
+- [Mark Lee](http://markleeis.me/)
+- [Nima Mehanian](http://tumblr.mehanian.com/)
+- [Selby Walker](http://selbywalker.com/)
 
 ### January
 
@@ -40,14 +54,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Mark Wilbur](http://logicmason.com/)
 - [Mike Adams](http://mikeincode.com/)
 - [Tony Thomson](http://www.tonythomson.com/blog/)
-
-### March
-
-- [Andrew Magliozzi](http://pleasestealthisidea.com/)
-- [Blake Embrey](http://blakeembrey.com/)
-- [Mark Lee](http://markleeis.me/)
-- [Nima Mehanian](http://tumblr.mehanian.com/)
-- [Selby Walker](http://selbywalker.com/)
 
 ## 2012
 
