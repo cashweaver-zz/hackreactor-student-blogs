@@ -8,7 +8,49 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 - [Cash Weaver](https://www.cashweaver.com/)
 
+### February
+
+- [Jen Wong](https://medium.com/@jenwong)
+
+### January
+
+- [Aimee Rosato](https://aimeerosato.com/)
+
+## 2015
+
+### October
+
+- [Banun Atina Idris](https://www.bthehuman.com/)
+- [Haley Bash](http://haleybash.com/)
+
+### June
+
+- [Jennie Kim](http://www.youhavetolearncomputers.com/)
+
+### April
+
+- [Edwin Lin](http://eddyjs.com/)
+
+### February
+
+- [Richard Kho](http://richardkho.com/)
+- [Stephanie Higa](http://www.stephaniehiga.com/)
+
+## 2014
+
+### February
+
+- [Justin Yek](http://www.penguinhustle.com/)
+
+### June
+
+- [Gabar Ewen](http://codingwizardry.azurewebsites.net/)
+
 ## 2013
+
+### September
+
+- [Jeff Lee](http://rebootjeff.github.io/)
 
 ### June
 
@@ -18,6 +60,9 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Phillip Alexander](http://phillipalexander.io)
 - [Shaohua Zhou](http://getshao.com)
 
+### May
+
+- [Bryan Sayson](http://www.bryansayson.com/weekone/)
 ### April
 
 - [Alex Gaputin](http://googamanga.tumblr.com/)
@@ -27,11 +72,11 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Combiz Salehomoum](http://combizs.tumblr.com)
 - [Dylan O’Carroll](http://banjolina-jolie.tumblr.com)
 - [Elle Beal](http://ellebeal.tumblr.com)
-- [Eric Levin](http://ericrius1.tumblr.com/)
 - [Eric Levin](http://ericrius1.tumblr.com)
 - [Evan Peelle](http://fullstackgrowthhacker.blogspot.com)
 - [Greg Palmer](http://gpalmer.me/)
 - [Jake Seip](http://seip.io/)
+- [Kevin Smith](http://kevinhamiltonsmith.com/)
 
 ### March
 
@@ -55,3 +100,4 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [CJ Winslow](http://youcanlearn.it/)
 - [Christen Thomson](http://whitepinedev.com/)
 - [Henry Zhu](http://henrycode.tumblr.com/)
+- [Nathan Houle](http://nathanhoule.com/)
