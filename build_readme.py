@@ -1,5 +1,6 @@
 # Organize the README file
 import re
+import requests
 from datetime import datetime
 from string import Template
 
@@ -34,4 +35,11 @@ for year in blogs:
     for cohort in reversed(sorted(blogs[year], key=lambda month: datetime.strptime(month, '%B'))):
         print cohort_template.substitute(cohort=cohort)
         for blog in sorted(blogs[year][cohort], key=lambda blog: blog['name']):
-            print blog_template.substitute(name=blog['name'], url=blog['url'])
+            # ref: http://stackoverflow.com/a/13641613
+            try:
+                r = requests.head(blog['url'])
+                if not r.status_code == '404':
+                    print blog_template.substitute(name=blog['name'], url=blog['url'])
+                # prints the int of the status code. Find more at httpstatusrappers.com :)
+            except requests.ConnectionError:
+                pass

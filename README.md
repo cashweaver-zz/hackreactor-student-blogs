@@ -12,8 +12,7 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### June
 
-- [Andrew](http://andrewspade.net/)
-- [Greg](blog.ideahaven.co)
+- [Greg](http://blog.ideahaven.co)
 - [Guy](http://guymorita.tumblr.com/)
 - [Jake](http://eastbayjake.wordpress.com)
 - [Miike](http://miike.posthaven.com)
@@ -41,7 +40,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Andrew Magliozzi](http://pleasestealthisidea.com/)
 - [Blake Embrey](http://blakeembrey.com/)
 - [Mark Lee](http://markleeis.me/)
-- [Nima Mehanian](http://tumblr.mehanian.com/)
 - [Selby Walker](http://selbywalker.com/)
 
 ### January
@@ -49,10 +47,8 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Andreas Nauleau](http://anauleau.tumblr.com/)
 - [Coleman Foley](http://learningtocode.quora.com/)
 - [Gavin McDermott](http://gvnm.tumblr.com/)
-- [Howard Tang](http://howardtang.co.uk/)
 - [John Katsnelson](http://greenbunnybearrug.wordpress.com/)
 - [Mark Wilbur](http://logicmason.com/)
-- [Mike Adams](http://mikeincode.com/)
 - [Tony Thomson](http://www.tonythomson.com/blog/)
 
 ## 2012
