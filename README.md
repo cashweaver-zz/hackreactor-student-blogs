@@ -10,17 +10,17 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### February
 
-- [Jen Wong](https://medium.com/@jenwong)
+- [Jen Wong](http://medium.com/@jenwong)
 
 ### January
 
-- [Aimee Rosato](https://aimeerosato.com/)
+- [Aimee Rosato](http://aimeerosato.com/)
 
 ## 2015
 
 ### October
 
-- [Banun Atina Idris](https://www.bthehuman.com/)
+- [Banun Atina Idris](http://www.bthehuman.com/)
 - [Haley Bash](http://haleybash.com/)
 
 ### June
@@ -38,13 +38,13 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ## 2014
 
-### February
-
-- [Justin Yek](http://www.penguinhustle.com/)
-
 ### June
 
 - [Gabar Ewen](http://codingwizardry.azurewebsites.net/)
+
+### February
+
+- [Justin Yek](http://www.penguinhustle.com/)
 
 ## 2013
 
@@ -63,6 +63,7 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 ### May
 
 - [Bryan Sayson](http://www.bryansayson.com/weekone/)
+
 ### April
 
 - [Alex Gaputin](http://googamanga.tumblr.com/)

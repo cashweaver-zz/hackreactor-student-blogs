@@ -30,7 +30,7 @@ with open('README.md') as f:
 year_template = Template('\n## $year')
 cohort_template = Template('\n### $cohort\n')
 blog_template = Template('- [$name]($url)')
-for year in blogs:
+for year in reversed(sorted(blogs)):
     print year_template.substitute(year=year)
     for cohort in reversed(sorted(blogs[year], key=lambda month: datetime.strptime(month, '%B'))):
         print cohort_template.substitute(cohort=cohort)
@@ -41,5 +41,5 @@ for year in blogs:
                 if r.status_code != 404:
                     print blog_template.substitute(name=blog['name'], url=blog['url'])
                 # prints the int of the status code. Find more at httpstatusrappers.com :)
-            except requests.ConnectionError:
+            except requests.ConnectionError as e:
                 pass
