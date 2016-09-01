@@ -38,7 +38,7 @@ for year in blogs:
             # ref: http://stackoverflow.com/a/13641613
             try:
                 r = requests.head(blog['url'])
-                if not r.status_code == '404':
+                if r.status_code != 404:
                     print blog_template.substitute(name=blog['name'], url=blog['url'])
                 # prints the int of the status code. Find more at httpstatusrappers.com :)
             except requests.ConnectionError:

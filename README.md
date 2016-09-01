@@ -12,12 +12,11 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### June
 
-- [Greg](http://blog.ideahaven.co)
-- [Guy](http://guymorita.tumblr.com/)
-- [Jake](http://eastbayjake.wordpress.com)
-- [Miike](http://miike.posthaven.com)
-- [Phillip](http://phillipalexander.io)
-- [Shao](http://getshao.com)
+- [Gregory Hilkert](http://blog.ideahaven.co)
+- [Guy Morita](http://guymorita.tumblr.com/)
+- [Jake McGuire](http://eastbayjake.wordpress.com)
+- [Phillip Alexander](http://phillipalexander.io)
+- [Shaohua Zhou](http://getshao.com)
 
 ### April
 
@@ -33,7 +32,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Evan Peelle](http://fullstackgrowthhacker.blogspot.com)
 - [Greg Palmer](http://gpalmer.me/)
 - [Jake Seip](http://seip.io/)
-- [Patrick Stapleton](http://blog.gdi2290.com)
 
 ### March
 
@@ -46,7 +44,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 - [Andreas Nauleau](http://anauleau.tumblr.com/)
 - [Coleman Foley](http://learningtocode.quora.com/)
-- [Gavin McDermott](http://gvnm.tumblr.com/)
 - [John Katsnelson](http://greenbunnybearrug.wordpress.com/)
 - [Mark Wilbur](http://logicmason.com/)
 - [Tony Thomson](http://www.tonythomson.com/blog/)
