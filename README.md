@@ -2,10 +2,11 @@
 
 Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
-**Tags**
-- sf: Hack Reactor's San Francisco office
-- remote: Hack Reactor's remote program
-- hir: Hacker in Residence
+|Tag | Description|
+|---|---|
+|sf | Hack Reactor's San Francisco office|
+|remote | Hack Reactor's remote program|
+|hir | Hacker in Residence|
 
 ## 2016
 
