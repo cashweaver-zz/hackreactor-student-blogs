@@ -57,7 +57,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 - [Gregory Hilkert](http://blog.ideahaven.co) [sf]
 - [Guy Morita](http://guymorita.tumblr.com/) [sf]
 - [Jake McGuire](http://eastbayjake.wordpress.com) [sf]
-- [Phillip Alexander](http://phillipalexander.io)
 - [Shaohua Zhou](http://getshao.com) [sf]
 
 ### May
@@ -98,7 +97,6 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### November
 
-- [CJ Winslow](http://youcanlearn.it/)
 - [Christen Thomson](http://whitepinedev.com/) [sf]
 - [Henry Zhu](http://henrycode.tumblr.com/) [sf]
 - [Nathan Houle](http://nathanhoule.com/) [sf]
