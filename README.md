@@ -6,99 +6,99 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### September
 
-- [Cash Weaver](https://www.cashweaver.com/)
+- [Cash Weaver](https://www.cashweaver.com/) [sf]
 
 ### February
 
-- [Jen Wong](http://medium.com/@jenwong)
+- [Jen Wong](http://medium.com/@jenwong) [sf]
 
 ### January
 
-- [Aimee Rosato](http://aimeerosato.com/)
+- [Aimee Rosato](http://aimeerosato.com/) [remote]
 
 ## 2015
 
 ### October
 
-- [Banun Atina Idris](http://www.bthehuman.com/)
-- [Haley Bash](http://haleybash.com/)
+- [Banun Atina Idris](http://www.bthehuman.com/) [sf]
+- [Haley Bash](http://haleybash.com/) [sf]
 
 ### June
 
-- [Jennie Kim](http://www.youhavetolearncomputers.com/)
+- [Jennie Kim](http://www.youhavetolearncomputers.com/) [sf]
 
 ### April
 
-- [Edwin Lin](http://eddyjs.com/)
+- [Edwin Lin](http://eddyjs.com/) [sf]
 
 ### February
 
-- [Richard Kho](http://richardkho.com/)
-- [Stephanie Higa](http://www.stephaniehiga.com/)
+- [Richard Kho](http://richardkho.com/) [sf, hir]
+- [Stephanie Higa](http://www.stephaniehiga.com/) [sf]
 
 ## 2014
 
 ### June
 
-- [Gabar Ewen](http://codingwizardry.azurewebsites.net/)
+- [Gabar Ewen](http://codingwizardry.azurewebsites.net/) [remote]
 
 ### February
 
-- [Justin Yek](http://www.penguinhustle.com/)
+- [Justin Yek](http://www.penguinhustle.com/) [sf]
 
 ## 2013
 
 ### September
 
-- [Jeff Lee](http://rebootjeff.github.io/)
+- [Jeff Lee](http://rebootjeff.github.io/) [sf]
 
 ### June
 
-- [Gregory Hilkert](http://blog.ideahaven.co)
-- [Guy Morita](http://guymorita.tumblr.com/)
-- [Jake McGuire](http://eastbayjake.wordpress.com)
+- [Gregory Hilkert](http://blog.ideahaven.co) [sf]
+- [Guy Morita](http://guymorita.tumblr.com/) [sf]
+- [Jake McGuire](http://eastbayjake.wordpress.com) [sf]
 - [Phillip Alexander](http://phillipalexander.io)
-- [Shaohua Zhou](http://getshao.com)
+- [Shaohua Zhou](http://getshao.com) [sf]
 
 ### May
 
-- [Bryan Sayson](http://www.bryansayson.com/weekone/)
+- [Bryan Sayson](http://www.bryansayson.com/) [sf]
 
 ### April
 
-- [Alex Gaputin](http://googamanga.tumblr.com/)
-- [Bianca Gandolfo](http://bgando.tumblr.com)
-- [Brian Chu](http://www.brianchu.com/)
-- [Charles Holbrow](http://charlesholbrow.com)
-- [Combiz Salehomoum](http://combizs.tumblr.com)
-- [Dylan O’Carroll](http://banjolina-jolie.tumblr.com)
-- [Elle Beal](http://ellebeal.tumblr.com)
-- [Eric Levin](http://ericrius1.tumblr.com)
-- [Evan Peelle](http://fullstackgrowthhacker.blogspot.com)
-- [Greg Palmer](http://gpalmer.me/)
-- [Jake Seip](http://seip.io/)
-- [Kevin Smith](http://kevinhamiltonsmith.com/)
+- [Alex Gaputin](http://googamanga.tumblr.com/) [sf]
+- [Bianca Gandolfo](http://bgando.tumblr.com) [sf]
+- [Brian Chu](http://www.brianchu.com/) [sf]
+- [Charles Holbrow](http://charlesholbrow.com) [sf]
+- [Combiz Salehomoum](http://combizs.tumblr.com) [sf]
+- [Dylan O’Carroll](http://banjolina-jolie.tumblr.com) [sf]
+- [Elle Beal](http://ellebeal.tumblr.com) [sf]
+- [Eric Levin](http://ericrius1.tumblr.com) [sf]
+- [Evan Peelle](http://fullstackgrowthhacker.blogspot.com) [sf]
+- [Greg Palmer](http://gpalmer.me/) [sf]
+- [Jake Seip](http://seip.io/) [sf]
+- [Kevin Smith](http://kevinhamiltonsmith.com/) [sf]
 
 ### March
 
-- [Andrew Magliozzi](http://pleasestealthisidea.com/)
-- [Blake Embrey](http://blakeembrey.com/)
-- [Mark Lee](http://markleeis.me/)
-- [Selby Walker](http://selbywalker.com/)
+- [Andrew Magliozzi](http://pleasestealthisidea.com/) [sf]
+- [Blake Embrey](http://blakeembrey.com/) [sf]
+- [Mark Lee](http://markleeis.me/) [sf]
+- [Selby Walker](http://selbywalker.com/) [sf]
 
 ### January
 
-- [Andreas Nauleau](http://anauleau.tumblr.com/)
-- [Coleman Foley](http://learningtocode.quora.com/)
-- [John Katsnelson](http://greenbunnybearrug.wordpress.com/)
-- [Mark Wilbur](http://logicmason.com/)
-- [Tony Thomson](http://www.tonythomson.com/blog/)
+- [Andreas Nauleau](http://anauleau.tumblr.com/) [sf]
+- [Coleman Foley](http://learningtocode.quora.com/) [sf]
+- [John Katsnelson](http://greenbunnybearrug.wordpress.com/) [sf]
+- [Mark Wilbur](http://logicmason.com/) [sf]
+- [Tony Thomson](http://www.tonythomson.com/blog/) [sf]
 
 ## 2012
 
 ### November
 
 - [CJ Winslow](http://youcanlearn.it/)
-- [Christen Thomson](http://whitepinedev.com/)
-- [Henry Zhu](http://henrycode.tumblr.com/)
-- [Nathan Houle](http://nathanhoule.com/)
+- [Christen Thomson](http://whitepinedev.com/) [sf]
+- [Henry Zhu](http://henrycode.tumblr.com/) [sf]
+- [Nathan Houle](http://nathanhoule.com/) [sf]
