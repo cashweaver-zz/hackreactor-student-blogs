@@ -9,8 +9,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Use the following format for the commit message: `Add <name>
-- Use the following format: `[Name](link)`
+- Use the following format for the commit message: `Add <name>`
+- Use the following format: `[Name](link) [tags]`
 
 Thank you for your suggestions, and to [lukasz-madon](https://github.com/lukasz-madon/awesome-remote-job) for inspiring these guidelines.
 
