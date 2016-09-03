@@ -8,10 +8,11 @@ print '# Hack Reactor Student Blogs'
 print ''
 print 'Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.'
 print ''
-print '**Tags**'
-print "- sf: Hack Reactor's San Francisco office"
-print "- remote: Hack Reactor's remote program"
-print '- hir: Hacker in Residence'
+print '|Tag | Description|'
+print '|---|---|'
+print "|sf | Hack Reactor's San Francisco office|"
+print "|remote | Hack Reactor's remote program|"
+print '|hir | Hacker in Residence|'
 
 blogs = {}
 cur_year = ''
