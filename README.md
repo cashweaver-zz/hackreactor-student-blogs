@@ -14,35 +14,82 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 - [Cash Weaver](https://www.cashweaver.com/) [sf]
 
+### August
+
+- [Marco Chan](https://inspiredtolive.github.io) [sf]
+
+### June
+
+- [Frank Lee](http://franklee77.github.io/) [sf]
+- [Jeremy Toce](http://jeremytoce.github.io) [sf]
+
+### April
+
+- [Mario Yeung](https://github.com/marioyeung/marioblog) [?]
+
 ### February
 
 - [Jen Wong](http://medium.com/@jenwong) [sf]
+- [Jak Buttarazzi](http://jakrazzi.github.io) [remote]
+- [Rob Bruhn](http://blog.modulomoments.com/) [remote]
 
 ### January
 
 - [Aimee Rosato](http://aimeerosato.com/) [remote]
+- [Jiang Boya](https://github.com/boyajay/dev-blog) [sf]
+- [Pedro Torres Picón](http://pedrotp.github.io/) [sf]
 
 ## 2015
 
+### November
+
+- [Richard Castro](http://rscastro.github.io) [sf]
+
 ### October
 
+- [Hera Kim](http://herashk.com/) [sf]
+- [Peter Juhwan Park](http://www.juhwanpark.com/) [remote]
+- [Kurt Weiberth](http://kurtle.io/) [sf]
+- [Leslie Pajuelo](http://lesliepajuelo.github.io/) [remote]
 - [Banun Atina Idris](http://www.bthehuman.com/) [sf]
 - [Haley Bash](http://haleybash.com/) [sf]
+
+### August
+
+- [Kristin Mayer](http://coldzonemt.github.io) [sf]
+- [Doug Shamoo](http://dougshamoo.github.io) [sf]
+- [Rod Machen](http://code.rodmachen.com) [remote]
 
 ### June
 
 - [Jennie Kim](http://www.youhavetolearncomputers.com/) [sf]
+- [Chris Saden](http://csaden.github.io) [sf]
 
 ### April
 
 - [Edwin Lin](http://eddyjs.com/) [sf]
 
+### March
+
+- [Mark Bennett](http://markbennett.io/) [sf]
+- [Moriah Kreeger](http://riahk.github.io) [sf]
+
 ### February
 
 - [Richard Kho](http://richardkho.com/) [sf, hir]
 - [Stephanie Higa](http://www.stephaniehiga.com/) [sf]
+- [Bradley Portnoy](https://www.bradleyportnoy.com/) [sf]
+- [Julia Nething](https://github.com/cjnething/formerBlog) [sf]
 
 ## 2014
+
+### December
+
+- [Andrew Smith](http://andrewsouthpaw.blogspot.com) [sf]
+
+### November
+
+- [Lindsey Smith](http://leaena.com/) [sf]
 
 ### June
 
@@ -52,11 +99,25 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 - [Justin Yek](http://www.penguinhustle.com/) [sf]
 
+### January
+
+- [Adam D Richman](http://adrichman.github.io) [sf]
+- [Kwyn Alice Meagher](https://github.com/HarleyKwyn/HarleyKwyn.github.io) [sf, hir]
+
 ## 2013
+
+### November
+
+- [Santiago Archila](http://sarchila.com) [sf]
 
 ### September
 
+- [Benjamin Martin](http://martinben.com) [sf]
 - [Jeff Lee](http://rebootjeff.github.io/) [sf]
+
+### August
+
+- [William Ngo](http://mrngoitall.net/) [sf]
 
 ### June
 
