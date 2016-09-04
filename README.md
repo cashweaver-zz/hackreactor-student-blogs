@@ -29,8 +29,8 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### February
 
-- [Jen Wong](http://medium.com/@jenwong) [sf]
 - [Jak Buttarazzi](http://jakrazzi.github.io) [remote]
+- [Jen Wong](http://medium.com/@jenwong) [sf]
 - [Rob Bruhn](http://blog.modulomoments.com/) [remote]
 
 ### January
@@ -47,23 +47,23 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### October
 
-- [Hera Kim](http://herashk.com/) [sf]
-- [Peter Juhwan Park](http://www.juhwanpark.com/) [remote]
-- [Kurt Weiberth](http://kurtle.io/) [sf]
-- [Leslie Pajuelo](http://lesliepajuelo.github.io/) [remote]
 - [Banun Atina Idris](http://www.bthehuman.com/) [sf]
 - [Haley Bash](http://haleybash.com/) [sf]
+- [Hera Kim](http://herashk.com/) [sf]
+- [Kurt Weiberth](http://kurtle.io/) [sf]
+- [Leslie Pajuelo](http://lesliepajuelo.github.io/) [remote]
+- [Peter Juhwan Park](http://www.juhwanpark.com/) [remote]
 
 ### August
 
-- [Kristin Mayer](http://coldzonemt.github.io) [sf]
 - [Doug Shamoo](http://dougshamoo.github.io) [sf]
+- [Kristin Mayer](http://coldzonemt.github.io) [sf]
 - [Rod Machen](http://code.rodmachen.com) [remote]
 
 ### June
 
-- [Jennie Kim](http://www.youhavetolearncomputers.com/) [sf]
 - [Chris Saden](http://csaden.github.io) [sf]
+- [Jennie Kim](http://www.youhavetolearncomputers.com/) [sf]
 
 ### April
 
@@ -76,10 +76,10 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 
 ### February
 
-- [Richard Kho](http://richardkho.com/) [sf, hir]
-- [Stephanie Higa](http://www.stephaniehiga.com/) [sf]
 - [Bradley Portnoy](https://www.bradleyportnoy.com/) [sf]
 - [Julia Nething](https://github.com/cjnething/formerBlog) [sf]
+- [Richard Kho](http://richardkho.com/) [sf, hir]
+- [Stephanie Higa](http://www.stephaniehiga.com/) [sf]
 
 ## 2014
 
